@@ -1,5 +1,4 @@
 import 'package:firebase_crud/screens/allusers.dart';
-import 'package:firebase_crud/screens/home.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 
